@@ -1,0 +1,48 @@
+ 
+ 
+body {
+    
+    margin:auto ;
+    font-size: 150.5%;
+    
+    background-image: url("images/6.jpg");
+        min-height: 100px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 40%;
+        
+    border: 10px solid #0F7C0F;   
+       
+}
+   
+img{
+    padding: 1.75em;
+    margin: auto;
+    display: block;
+    width: 30%;
+    max-width: 30%;
+}
+header h1 {
+    margin: auto;
+    text-align: center;
+    padding: .75em;
+    color:green;
+    font-weight: bold;
+}
+.heading {
+    padding: 0.625em 0 0.625em 0.625em;
+    font-weight: bold;
+    color: green;
+}
+p {
+    padding: 1.25em;
+}
+h1{
+    background-color: white:
+}
+#small {
+    width: 200px;
+    height: 150px;
+    float: left;
+}
